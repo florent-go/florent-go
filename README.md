@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florent Gomez</h1>
 <h3 align="center">A passionate student developer from 42 Nice</h3>
 
-<h3 align="left">Connect with me:</h3>
+[![fgomez's 42 stats](https://badge42.vercel.app/api/v2/cl4id47n4002109l31rz93ca9/stats?cursusId=21&coalitionId=106)](https://github.com/JaeSeoKim/badge42)
 <p align="left">
 </p>
 
