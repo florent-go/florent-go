@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student developer from 42 Nice</h3>
 
 <p align="center">
-  [![fgomez's 42 stats](https://badge42.vercel.app/api/v2/cl4id47n4002109l31rz93ca9/stats?cursusId=21&coalitionId=106)](https://github.com/JaeSeoKim/badge42)
+  "[![fgomez's 42 stats](https://badge42.vercel.app/api/v2/cl4id47n4002109l31rz93ca9/stats?cursusId=21&coalitionId=106)](https://github.com/JaeSeoKim/badge42)"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
